@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döviz Kuru", "Döviz Kuru\Döviz Kuru.csproj", "{06A48E69-1B4D-4FFB-89C2-40DC0A9D5E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A48E69-1B4D-4FFB-89C2-40DC0A9D5E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A48E69-1B4D-4FFB-89C2-40DC0A9D5E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A48E69-1B4D-4FFB-89C2-40DC0A9D5E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A48E69-1B4D-4FFB-89C2-40DC0A9D5E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

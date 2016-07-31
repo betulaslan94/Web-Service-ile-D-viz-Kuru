@@ -1,0 +1,9 @@
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.exe.config
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.pdb
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.csprojResolveAssemblyReference.cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz_Kuru.Form1.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz_Kuru.Properties.Resources.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.GenerateResource.Cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.pdb
