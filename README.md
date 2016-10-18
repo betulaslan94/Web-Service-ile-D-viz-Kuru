@@ -1,2 +1,2 @@
 # Web-Service-ile-Doviz-Kuru
-Web service kullanarak güncel döviz kurlarını getirme ve TL dönüşümü
+Hazır olarak yazılmış bir web service kullanarak güncel döviz kurlarını getirme ve TL dönüşümü
